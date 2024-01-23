@@ -1,4 +1,4 @@
-Clone Spotify
+##🚀##Clone Spotify
 ```sh
 npm create astro@latest -- --template basics
 ```
@@ -6,12 +6,8 @@ npm create astro@latest -- --template basics
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://i.pinimg.com/736x/1f/26/5b/1f265bae92fef33fe54310f2d6ef8648.jpg)
-
-## 🚀 Project Structure
+S
+##  Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 
