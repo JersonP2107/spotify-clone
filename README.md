@@ -1,5 +1,5 @@
 
-## 👀 🎶🎵📱Clone Spotify
+## 👀 📱Clone Spotify
 <br>
 </br>
 
