@@ -1,6 +1,5 @@
-##🚀Clone Spotify
 
-## 👀 Want to learn more?
+## 👀 Clone Spotify
 <br>
 
 ![just-the-basics](https://i.pinimg.com/736x/1f/26/5b/1f265bae92fef33fe54310f2d6ef8648.jpg)
@@ -46,6 +45,4 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
