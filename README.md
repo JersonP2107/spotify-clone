@@ -1,5 +1,4 @@
-# Astro Starter Kit: Basics
-
+Clone Spotify
 ```sh
 npm create astro@latest -- --template basics
 ```
