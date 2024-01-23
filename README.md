@@ -1,7 +1,8 @@
 ##🚀##Clone Spotify
-```sh
-npm create astro@latest -- --template basics
-```
+
+<br>
+
+![just-the-basics](https://i.pinimg.com/736x/1f/26/5b/1f265bae92fef33fe54310f2d6ef8648.jpg)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
